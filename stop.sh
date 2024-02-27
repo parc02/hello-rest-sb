@@ -2,8 +2,8 @@
 
 figlet stop
 
-if [ -f ~/app/sb-rest/pid.file ]; then
-    kill $(cat ~/app/sb-rest/pid.file)
+if [ -f ~/app/jenkins/pid.file ]; then
+    kill $(cat ~/app/jenkins/pid.file)
 else
     echo 'pass'
 fi
