@@ -1,4 +1,4 @@
-# Hello-rest-SpringBoot
+# Hello-Rest-SpringBoot
 
 ## TEST
 ```
