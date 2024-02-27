@@ -6,6 +6,7 @@ $ cd gs-rest-service
 $ mv complete ~/code/hello-rest-sb
 $ cd  ~/code/hello-rest-sb
 ```
+- 👆git 추가
 ## TEST
 ```
 ```
